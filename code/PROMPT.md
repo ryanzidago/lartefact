@@ -1,4 +1,4 @@
-# Artefact Compiler — Prompt
+# Code Artefact Compiler — Prompt
 
 You are compiling a structured knowledge artefact about a single component from a codebase. The component may be an entity (database-backed record), a module, a class, a service, or any other meaningful unit of code. The artefact will be consumed by LLMs and humans — so it must be accurate, complete, and self-contained.
 
