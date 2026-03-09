@@ -1,0 +1,9 @@
+{
+  "name": "lartefact",
+  "version": "0.1.0",
+  "description": "Compile structured knowledge artefacts about codebase components",
+  "author": {
+    "name": "Ryan Zidago"
+  },
+  "keywords": ["artefact", "documentation", "code", "history", "data", "visual"]
+}

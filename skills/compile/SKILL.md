@@ -1,5 +1,4 @@
 ---
-name: lartefact-compile
 description: Use when asked to compile a full artefact, document a component end-to-end, or run the full lartefact pipeline — "compile artefact for X", "lartefact X", "document X"
 ---
 

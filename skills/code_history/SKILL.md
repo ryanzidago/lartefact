@@ -1,5 +1,4 @@
 ---
-name: lartefact-code-history
 description: Use when asked to compile a history artefact, determine component ownership, or understand change history — "compile history artefact for X", "who owns X?", "what's the history of X?"
 ---
 

@@ -1,5 +1,4 @@
 ---
-name: lartefact-code
 description: Use when asked to compile a code artefact, document a component's structure, or analyze code — "compile code artefact for X", "document X code", "document the X component"
 ---
 

@@ -1,5 +1,4 @@
 ---
-name: lartefact-data
 description: Use when asked to compile a data profile, profile a database table, or understand live data for a component — "compile data profile for X", "profile the X table", "what does X data look like?"
 ---
 
